@@ -1,0 +1,8 @@
+.display {
+  background: #e0d19c;
+  margin: 10px;
+  width: 90%;
+  font-size: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
